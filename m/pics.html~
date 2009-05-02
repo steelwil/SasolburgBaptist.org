@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>Sasolburg Baptist - Pics Page</title>
+<meta name="Keywords" content="baptist, church, south africa, christian, christianity, religion" />
+<link rel="home" title="Home" href="http://www.sasolburgbaptist.org/m/" />
+<link rel="stylesheet" type="text/css" href="basic.css" />
+</head>
+
+<body>
+<a href="index.html">Sasolburg Baptist</a> 
+<a href="declaration.html">Declaration</a>
+<a href="resources.html">Sermons</a> 
+<a href="events.html">Events</a> 
+<a href="links.html">Links</a>
+<a href="contactus.html">Contact Us</a> 
+
+<h3>Pics Page</h3>
+
+<p>Yep this is us!</p>
+
+<p><img src="images/church.jpg" alt="church" /></p>
+<p><a href="index.html">Back</a></p>
+
+</body>
+</html>

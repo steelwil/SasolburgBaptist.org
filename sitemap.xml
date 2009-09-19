@@ -5,13 +5,18 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>http://www.sasolburgbaptist.org/audio/20080907.html</loc>
+  <lastmod>2008-09-20T22:00:00Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://www.sasolburgbaptist.org/cartoon.html</loc>
-  <lastmod>2008-05-10T21:36:29Z</lastmod>
+  <lastmod>2009-02-15T18:08:23Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/contactus.html</loc>
-  <lastmod>2008-05-10T21:36:29Z</lastmod>
+  <lastmod>2009-02-08T14:02:28Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -21,17 +26,67 @@
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/events.html</loc>
-  <lastmod>2008-08-10T15:27:10Z</lastmod>
+  <lastmod>2009-08-16T15:39:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/googled468dcf209b54e3e.html</loc>
-  <lastmod>2008-05-10T21:36:29Z</lastmod>
+  <lastmod>2009-08-15T14:26:02Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/links.html</loc>
-  <lastmod>2008-08-27T14:59:26Z</lastmod>
+  <lastmod>2009-08-14T21:37:13Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/m/contactus.html</loc>
+  <lastmod>2009-05-01T14:52:31Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/m/declaration.html</loc>
+  <lastmod>2009-05-01T15:36:53Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/m/events.html</loc>
+  <lastmod>2009-05-01T14:52:12Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/m/links.html</loc>
+  <lastmod>2009-05-01T14:52:24Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/m/pics.html</loc>
+  <lastmod>2009-05-01T14:55:36Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/m/resources.html</loc>
+  <lastmod>2009-05-01T17:12:59Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/m/resources2006.html</loc>
+  <lastmod>2009-01-18T17:54:02Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/m/resources2007.html</loc>
+  <lastmod>2009-01-18T17:54:24Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/m/resources2008.html</loc>
+  <lastmod>2009-02-08T13:39:02Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/m/sitemap.html</loc>
+  <lastmod>2009-04-27T12:43:42Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -41,7 +96,52 @@
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/resources.html</loc>
-  <lastmod>2008-08-10T15:18:17Z</lastmod>
+  <lastmod>2009-08-16T15:49:16Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080113.html</loc>
+  <lastmod>2008-10-26T17:38:53Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080120.html</loc>
+  <lastmod>2008-10-26T17:51:33Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080203.html</loc>
+  <lastmod>2008-10-26T18:21:56Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080210.html</loc>
+  <lastmod>2008-10-26T18:47:52Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080217.html</loc>
+  <lastmod>2008-11-02T15:46:41Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080224.html</loc>
+  <lastmod>2008-11-02T16:55:42Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080302.html</loc>
+  <lastmod>2008-11-02T17:00:29Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080309.html</loc>
+  <lastmod>2008-11-09T16:14:55Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080316.html</loc>
+  <lastmod>2008-11-09T16:16:05Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -87,6 +187,146 @@
  <url>
   <loc>http://www.sasolburgbaptist.org/resources/20080810.html</loc>
   <lastmod>2008-08-10T15:17:19Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080907.html</loc>
+  <lastmod>2008-09-21T18:49:22Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080914.html</loc>
+  <lastmod>2008-09-22T19:32:56Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20080921.html</loc>
+  <lastmod>2008-09-21T20:06:42Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20081012.html</loc>
+  <lastmod>2008-10-12T18:11:02Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20081019.html</loc>
+  <lastmod>2008-10-19T12:31:28Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20081026.html</loc>
+  <lastmod>2008-10-26T16:47:55Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20081102.html</loc>
+  <lastmod>2008-11-02T15:06:27Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20081109.html</loc>
+  <lastmod>2008-11-09T17:24:19Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20081116.html</loc>
+  <lastmod>2008-12-07T15:51:07Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20081123.html</loc>
+  <lastmod>2008-12-07T17:06:54Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20081207.html</loc>
+  <lastmod>2008-12-07T18:01:57Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20081214.html</loc>
+  <lastmod>2009-02-08T13:47:18Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090104.html</loc>
+  <lastmod>2009-02-08T14:24:52Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090118.html</loc>
+  <lastmod>2009-02-08T14:55:22Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090125.html</loc>
+  <lastmod>2009-02-08T16:22:31Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090201.html</loc>
+  <lastmod>2009-02-15T16:43:24Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090208.html</loc>
+  <lastmod>2009-02-08T16:32:38Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090215.html</loc>
+  <lastmod>2009-02-15T17:59:18Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090222.html</loc>
+  <lastmod>2009-02-22T19:31:20Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090301.html</loc>
+  <lastmod>2009-03-08T15:16:41Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090308.html</loc>
+  <lastmod>2009-03-08T16:43:56Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090315.html</loc>
+  <lastmod>2009-03-29T14:27:29Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090322.html</loc>
+  <lastmod>2009-03-29T15:50:43Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090329.html</loc>
+  <lastmod>2009-03-29T16:07:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090405.html</loc>
+  <lastmod>2009-04-05T17:19:28Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090412.html</loc>
+  <lastmod>2009-04-27T13:18:10Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090419.html</loc>
+  <lastmod>2009-05-01T16:35:18Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources/20090426.html</loc>
+  <lastmod>2009-05-01T18:28:19Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -391,17 +631,22 @@
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/resources2006.html</loc>
-  <lastmod>2008-05-10T21:36:29Z</lastmod>
+  <lastmod>2009-01-18T17:54:02Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/resources2007.html</loc>
-  <lastmod>2008-05-10T21:36:29Z</lastmod>
+  <lastmod>2009-01-18T17:54:24Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources2008.html</loc>
+  <lastmod>2009-02-08T13:39:02Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/sitemap.html</loc>
-  <lastmod>2008-08-10T15:18:44Z</lastmod>
+  <lastmod>2009-05-01T18:28:30Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

@@ -74,7 +74,7 @@ p.clear
 {
 	clear: left;
 }
-p.blockquote {
+.blockquote {
 	display: block;
 	background-color: #f5d8d5;
 	padding: 15px;

@@ -4,10 +4,21 @@ body {
  	background: url("images/bg1.png");
 }
 
-img.right { float: right; }
-img.left { 
+.upgotd-link > img {
+	max-height: 175px;
+}
+
+img {
+	border-radius: 5px;
+	max-width: 100%;
+}
+
+img.right {
+	float: right;
+}
+img.left {
 	float: left;
-	padding-right: 10px;
+	margin-right: 10px;
 }
 
 table.head {
@@ -15,14 +26,12 @@ table.head {
 	width: 100%;
 }
 
-.headLeft
-{
-	border: 0px;
-	padding-left: 50px;
+.headLeft {
+    border: 0px;
+    padding-left: 50px;
 }
 
-td.headRight
-{
+td.headRight {
 	border: 0px;
 	padding: 5px;
  	background-repeat: no-repeat;
@@ -35,6 +44,7 @@ h1.head, h4.head {
 #main {
 	padding: 10px;
 	background-color: #ffffff;
+    border-radius: 0 0 8px 8px;
 }
 
 #menu {
@@ -43,6 +53,7 @@ h1.head, h4.head {
 	background-color: #638cbb;
 	border-top-color: #d1e4fa;
 	border-bottom-color: black;
+	border-radius: 8px 8px 0 0;
 }
 
 a.NavLink, a.activeNavLink
@@ -54,6 +65,7 @@ a.NavLink, a.activeNavLink
 	background-color: #638cbb;
 	text-decoration: none;
 	color: white;
+	border-radius: 8px 8px 0 0;
 }
 
 a.activeNavLink
@@ -68,7 +80,7 @@ a.activeNavLink
 }
 
 .block
-{ 
+{
 	display: block;
 	background-color: #e3fae7;
 	padding: 10px;
@@ -96,14 +108,58 @@ th
 	text-align: left;
 }
 
+td.rightCol {
+    padding: 10px;
+    width: 20%;
+    vertical-align: top;
+}
+
 p.clear
 {
 	clear: left;
 }
 .blockquote {
+	border-radius: 10px;
 	display: block;
-	border:5px solid lightgray; 
+	border:5px solid lightgray;
 	background-color: white;
 	padding: 15px;
 }
 
+h2, h3 {
+    clear: both;
+}
+
+/* adjustments for small screens */
+@media all and (max-width: 767px) {
+    .headLeft {
+        padding-left: 5px;
+    }
+
+    .blockquote {
+        padding: 5px;
+    }
+
+    h1.head {
+        font-size: medium;
+    }
+
+    h4 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    td.rightCol,
+    h4.head,
+    p.vision {
+        display:none;
+    }
+
+	ul {
+		padding-left: 2rem;
+	}
+}
+
+small {
+	font-size: xx-small;
+}

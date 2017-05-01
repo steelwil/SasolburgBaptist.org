@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap/0.84"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84
+                      http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
  <url>
   <loc>http://www.sasolburgbaptist.org/cartoon.html</loc>
-  <lastmod>2012-01-02T08:39:32Z</lastmod>
+  <lastmod>2016-01-03T14:05:31Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/contactus.html</loc>
-  <lastmod>2012-01-02T08:39:32Z</lastmod>
+  <lastmod>2016-09-18T16:17:03Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/declaration.html</loc>
-  <lastmod>2012-01-02T08:39:32Z</lastmod>
+  <lastmod>2016-01-03T14:05:11Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/events.html</loc>
-  <lastmod>2012-01-24T17:00:39Z</lastmod>
+  <lastmod>2016-09-18T16:20:00Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -31,237 +31,72 @@
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/links.html</loc>
-  <lastmod>2012-02-16T07:40:47Z</lastmod>
+  <lastmod>2016-05-11T17:32:08Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/pics.html</loc>
-  <lastmod>2012-01-02T08:39:32Z</lastmod>
+  <lastmod>2013-01-27T20:08:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/BuildingtheHouseofGod.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/DifferentPartsoftheSameBody.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/GodsSpecificCall.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/GodsSpecificCallPart2.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/GodsVoice.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/InHisName.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/InTheDesert.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/KingdomCulture.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/KingdomCulturePart2.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/LivingStones.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/LoosingYourJoy.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/LoveSurpassesOurUnderstanding.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/MasteringYourThoughts-1.html</loc>
-  <lastmod>2012-01-02T10:23:00Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/OurFatherCares.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/PowerWithinandPowerAroundUs.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/ShineinYourJail.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/TheGoldenThread.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/TheHouseofGod.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/TheKingdomWithin.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/TheKingdomWithinPart2.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/TheSpiritInUs.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/WhatCausesDoubt.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/atonement.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/blood.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/compassion.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/compassion2.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/drugs.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/faith2.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/fear2.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/glory.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/glory2.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/grace.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/honour.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/justified.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/justified2.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/name.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/power.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://www.sasolburgbaptist.org/resources/2007/pureheart.html</loc>
-  <lastmod>2012-01-02T10:00:57Z</lastmod>
+  <loc>http://www.sasolburgbaptist.org/resources2006.html</loc>
+  <lastmod>2014-01-09T06:21:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/resources2007.html</loc>
-  <lastmod>2012-04-22T18:36:38Z</lastmod>
+  <lastmod>2014-01-09T06:21:18Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/resources2008.html</loc>
-  <lastmod>2012-04-22T18:36:25Z</lastmod>
+  <lastmod>2014-01-09T06:21:27Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/resources2009.html</loc>
-  <lastmod>2012-04-22T18:36:15Z</lastmod>
+  <lastmod>2014-02-08T19:15:55Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/resources2010.html</loc>
-  <lastmod>2012-04-22T18:35:58Z</lastmod>
+  <lastmod>2015-08-09T12:37:04Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/resources2011.html</loc>
-  <lastmod>2012-04-22T18:35:48Z</lastmod>
+  <lastmod>2015-08-09T12:37:08Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/resources2012.html</loc>
-  <lastmod>2012-04-22T18:35:38Z</lastmod>
+  <lastmod>2016-01-03T14:03:42Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources2013.html</loc>
+  <lastmod>2016-03-27T16:36:18Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources2014.html</loc>
+  <lastmod>2016-03-27T16:36:20Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources2015.html</loc>
+  <lastmod>2016-03-27T16:36:22Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.sasolburgbaptist.org/resources2016.html</loc>
+  <lastmod>2016-10-23T12:08:22Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.sasolburgbaptist.org/testimonies.html</loc>
-  <lastmod>2012-01-02T08:39:32Z</lastmod>
+  <lastmod>2016-01-03T14:07:21Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

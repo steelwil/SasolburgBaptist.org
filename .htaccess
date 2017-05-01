@@ -1,0 +1,2 @@
+
+#RedirectMatch \.(dynamiccontent|pl|plx|perl|cgi|php|php4|php5|php6|php3|shtml)$ http://serve7.serve-hosting.net/cgi-sys/movingpage.cgi

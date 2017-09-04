@@ -163,3 +163,12 @@ h2, h3 {
 small {
 	font-size: xx-small;
 }
+
+.borderless {
+	border-style: none;
+}
+
+.borderless td {
+	vertical-align: top;
+	border-style: none;
+}

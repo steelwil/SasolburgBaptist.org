@@ -160,6 +160,34 @@ h2, h3 {
 	}
 }
 
+@media all and (max-height: 767px) {
+    .headLeft {
+        padding-left: 5px;
+	}
+	
+	.blockquote {
+        padding: 5px;
+    }
+
+    h1.head {
+        font-size: medium;
+    }
+
+    h4 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    h4.head,
+    p.vision {
+        display:none;
+    }
+
+	ul {
+		padding-left: 2rem;
+	}
+}
+
 small {
 	font-size: xx-small;
 }

@@ -7,5 +7,6 @@
         "unforgiveness"
     ],
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "dotnet-test-explorer.testProjectPath": "./Unit"
 }

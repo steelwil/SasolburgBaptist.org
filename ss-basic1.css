@@ -1,7 +1,7 @@
 :root {
   /* Light mode colors */
   --body-bg-color: #446d99;
-  --body-bg-image: url("images/bg1.png");
+  --body-bg-image: url("images/bg2.png");
   --main-bg: #ffffff;
   --main-text: #000000;
   --link-color: #0066cc;
@@ -28,6 +28,7 @@
   :root {
     /* Dark mode colors */
     --body-bg-color: #1a2a3a;
+    --body-bg-image: url("images/bg2-dark.png");
     --main-bg: #1a1a1a;
     --main-text: #e0e0e0;
     --link-color: #66b3ff;
